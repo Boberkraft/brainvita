@@ -8,7 +8,7 @@ class GameManager:
     difficulty = None
     exit = False
     new_theme = True
-    max_maps = 2
+    max_maps = 5
 
     def load(self):
         Ball.change_sprite(self.difficulty)
