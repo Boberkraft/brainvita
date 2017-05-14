@@ -22,4 +22,6 @@ pip install pygame
 - [ ] More Crash Bandicoot
 - [ ] More types of balls
 - [ ] Time and scores
-- [ ] Extra attractions for each theme.
+- [ ] Extra attractions for each theme
+- [ ] Sound volume control
+- [ ] Nice way of creating new levels
