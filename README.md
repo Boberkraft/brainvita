@@ -1,5 +1,4 @@
 # Brainvita / Peg Solitaire clone
-# Dobra konrad żartowałem jeszcze tutaj nie zaglądaj xd
 Everything works so have fun.
 
 Requires pygame
